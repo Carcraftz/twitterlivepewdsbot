@@ -1,0 +1,12 @@
+{
+"prefix":"!",
+"comment":"THE ABOVE IS A PREFIX FOR THE DISCORD BOT USED TO CONTROL THE TWITTER BOT",
+"dtoken":"discord bot token goes here",
+"key":"twitter key goes here",
+"keysecret":"twitter key secret goes here",
+"token":"twitter token goes here",
+"tokensecret":"twitter token secret goes here",
+"youtube":"youtube api key goes here"
+  
+  
+}
