@@ -1,0 +1,29 @@
+{
+  "name": "Twitter Pewds bot",
+  "version": "0.0.1",
+  "description": "Helps our man pewdiepie gain subscribers.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "discord.js": "^11.4.2",
+    "node-tweet-stream": "^2.0.3",
+    "better-youtube-api": "^0.3.7",
+    "google-image-query": "^1.0.3",
+    "image-downloader": "^3.4.2",
+    "twitter": "^1.7.1",
+    "sentiment": "^5.0.1",
+    "twit": "^2.2.11"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "pewdiepie",
+    "tseries"
+  ]
+}
