@@ -54,7 +54,7 @@ bot.on('message', (message) => {
         if (!alreadytweeted && connotation.score>=0) {
           //retweet code goes here
           alreadytweeted = true;
-          setTimeout(gay=> {alreadytweeted=false},60000)
+          setTimeout(timex=> {alreadytweeted=false},60000)
         }
       })
       function start () {
